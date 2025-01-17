@@ -1,0 +1,1 @@
+import{_ as o}from"./MainWrapperView.vue_vue_type_style_index_0_lang-D9J4DR3l.js";import{d as t,o as e,b as s}from"./index-NkV-h5IJ.js";import"./theme-CXhRrftG.js";const m=t({__name:"DashboardView",setup(n){return(a,i)=>(e(),s(o,{"context-title":"Finding Oil Losses","context-desc":"https://rantau.findingoillosses.com"}))}});export{m as default};
